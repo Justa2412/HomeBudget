@@ -1,0 +1,4 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://jpolitanska2412:Justyna88@cluster0.zorq1le.mongodb.net/?retryWrites=true&w=majority
